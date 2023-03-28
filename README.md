@@ -14,5 +14,29 @@ I am currently on the lookout for exciting opportunities as a Data Scientist or 
 - 📫 You can reach me on : srisrinivasan@ucdavis.edu
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/19z5Ih8CPcvEnMhKI-yjOGRYZMWv7vZzL/view).
 
+### Languages and Tools:
+<p align="left">
+  
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50px"></span>&nbsp;
+  <span><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="65px"></span>&nbsp;
+  <span><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="55px"></span>&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" width="55px"></span>&nbsp;
+  <br>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55px"></span>&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" width="50px"></span>&nbsp;
+  <span><img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="55px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"></span>&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" width="50px"></span>&nbsp;
+  
+  
+
+### My Github Stats:
+<br>
+<p align = "center">
+<img height = "250rem" src = "https://github-readme-stats.vercel.app/api?username=sripriya97&show_icons=true&include_all_commits=true&count_private=true&line_height=40">
+<img height = "250rem" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sripriya97">
+</p>
+
 
 
