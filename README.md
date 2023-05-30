@@ -12,7 +12,7 @@ a Business Analytics Masters student at UC Davis and experienced Full Stack Deve
 I am currently on the lookout for exciting opportunities as a Data Scientist or Data Analyst, and I am eager to explore potential opportunities. If you are interested in learning more about my experience and expertise or discussing potential job openings, please do not hesitate to reach out to me.
 
 - 📫 You can reach me on : srisrinivasan@ucdavis.edu
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/19z5Ih8CPcvEnMhKI-yjOGRYZMWv7vZzL/view).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1zZlsqnMQKKeJMCW7N-AkfLSmt1Uuv9cX/view?usp=sharing).
 
 ### Languages and Tools:
 <p align="left">
