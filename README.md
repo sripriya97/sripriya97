@@ -5,7 +5,7 @@ a Business Analytics Masters graduate from UC Davis and experienced Full Stack D
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sripriya-srini/)
 
-- 🎓 I’m currently pursuing MS in Business Analytics at UC Davis (expected graduation June 2023)
+- 🎓 I am an MS in Business Analytics graduate from UC Davis with work authorization in the United States
 - 👩🏻‍💻 I worked as a Full Stack Developer for Natwest Group Plc.
 - 📚 I did my bachelor's in engineering with a major in Electronic and Communication from Anna University, India
 </br>
