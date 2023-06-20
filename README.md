@@ -1,7 +1,7 @@
 ### Hi there I am <a href="https://sripriya97.github.io/" target="_blank">Sripriya</a>  👋
 
 
-a Business Analytics Masters graduate from UC Davis and experienced Full Stack Developer with hands-on experience in Core Java and React framework, I am passionate about leveraging data to drive impactful business decisions. I aspire to become a Data Scientist and harness the power of randomized experiments to create innovative solutions that drive positive change for my organization.
+a Business Analytics Masters graduate from UC Davis and experienced Full Stack Developer with hands-on experience in Core Java and React framework, I am passionate about leveraging data to drive impactful business decisions. I am passionate about using data to derive business insights and harness the power of randomized experiments to create innovative solutions that drive positive change for my organization.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sripriya-srini/)
 
